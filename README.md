@@ -1,5 +1,7 @@
 # ⚡ QUANTUM AIR CANVAS — Sci-Fi Edition
 
+<img width="1727" height="1087" alt="Screenshot 2026-02-10 at 11 15 47 AM" src="https://github.com/user-attachments/assets/0da7755d-d42e-4ae6-a3eb-91fd01657688" />
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
