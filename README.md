@@ -86,7 +86,7 @@ Click any button by hovering your index finger over it:
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd open_air_canvas_draw
+   cd open_air_canvas_3d
    ```
 
 2. **Create a virtual environment (recommended):**
@@ -219,7 +219,7 @@ If you see "OpenCV: not authorized to capture video", this is the issue.
 ## 📁 Project Structure
 
 ```
-open_air_canvas_draw/
+open_air_canvas_3d/
 ├── air_canvas.py           # Main application (825 lines)
 ├── hand_landmarker.task    # MediaPipe hand detection model (~7.5 MB)
 ├── requirements.txt        # Python dependencies
